@@ -1,0 +1,10 @@
+The training time is: 
+362.086445093s
+The testing accuracy is: 
+0.8675889328063241
+The testing precision is: 
+0.7268518518518519
+The testing recall is: 
+0.6767241379310345
+The testing f1_score is: 
+0.7008928571428571
