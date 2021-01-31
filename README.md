@@ -9,6 +9,17 @@ train.py needs the following input:
 In the above two load functions, an augmented graph adjacency matrix A_L is saved and directly loaded.
 The pre-trained results are saved in GEDet/processed/
 
+GEDet now has a web interface availabel. The web interface is：
+https://gdet.hcma.repl.co/
+Related Repo:  https://github.com/CWRU-DB-Group/GDet
+
+There are related videos to introduce GEDet:
+Youtube:
+https://www.youtube.com/watch?v=GGSs7wcKaBU
+https://youtube.com/playlist?list=PL0YKREc7vLdWfX3lXplYvpiklA8zAFEfS
+Bilibili:
+https://www.bilibili.com/s/video/BV1ET4y1M7F1
+
 GEDet consists of several components and this repository will be updated and maintained by Sheng Guan.
 Please feel free to send emails to sxg967@case.edu if you have any questions.
 Any contribution is highly appreciated!
