@@ -16,6 +16,7 @@ https://gdet.hcma.repl.co/
 Related Repo:  https://github.com/CWRU-DB-Group/GDet
 
 There are related videos to introduce GEDet:
+
 Youtube:
 https://www.youtube.com/watch?v=GGSs7wcKaBU
 
